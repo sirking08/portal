@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" xml:space="preserve">
+<g transform="matrix(98.4685,0,0,98.4685,80.2399,75.5185)"></g><text x="20.765px" y="75.519px" style="font-family:'TwCenMT-Regular', 'Tw Cen MT';font-size:98.468px;fill:#002064;">A</text>
+<circle fill="none" stroke="#002064" stroke-miterlimit="10" stroke-width="5" stroke-linecap="round" stroke-dasharray="22" cx="50" cy="50" r="48.02">
+	<animateTransform attributeName="transform"
+		attributeType="XML"
+		type="rotate"
+		from="0 50 50"
+		to="360 50 50"
+		dur="5s"
+		repeatCount="indefinite" />
+
+</circle>
+<circle fill="none" stroke="#ffd40f" stroke-miterlimit="10" stroke-width="5" stroke-linecap="round" stroke-dasharray="22" cx="50" cy="50" r="42">
+	<animateTransform attributeName="transform"
+		attributeType="XML"
+		type="rotate"
+		from="360 50 50"
+		to="0 50 50"
+		dur="3s"
+		repeatCount="indefinite" />
+
+</circle>
+</svg>
