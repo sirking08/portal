@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<rect id="Floor1" x="1.058" y="96.975" width="97.885" height="2.887" style="fill:#002064;"/>
+<rect id="Floor2" x="5.408" y="92.144" width="89.05" height="2.887" style="fill:#002064;"/>
+<rect id="Floor3" x="10.037" y="87.213" width="79.003" height="2.887" style="fill:#002064;"/>
+<path id="Pillar1" d="M13.68,43.077l0.038,-2.458l14.161,-0l-0.019,2.45l-2.217,0.122l0.104,39.271l2.127,0.059l0.005,2.413l-14.161,-0l-0.002,-2.389l2.231,-0.09l-0.081,-39.333" style="fill:#ffd40f;">
+	
+	<animateTransform attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		dur="1s"
+		values="20,0;0,0;0,0"
+		repeatCount="indefinite"/>
+
+</path>
+<path id="Pillar2" d="M33.014,43.077l0.038,-2.458l14.161,-0l-0.019,2.45l-2.217,0.122l0.104,39.271l2.126,0.059l0.006,2.413l-14.161,-0l-0.003,-2.389l2.231,-0.09l-0.08,-39.333" style="fill:#ffd40f;">
+
+	<animateTransform attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		begin=".1"
+		dur="1s"
+		values="20,0;0,0;0,0"
+		repeatCount="indefinite"/>
+		
+</path>
+<path id="Pillar3" d="M52.347,43.077l0.038,-2.458l14.161,-0l-0.019,2.45l-2.217,0.122l0.104,39.271l2.126,0.059l0.006,2.413l-14.161,-0l-0.003,-2.389l2.232,-0.09l-0.081,-39.333" style="fill:#ffd40f;">
+
+	<animateTransform attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		begin=".2"
+		dur="1s"
+		values="20,0;0,0;0,0"
+		repeatCount="indefinite"/>
+		
+</path>
+<path id="Pillar4" d="M71.68,43.077l0.038,-2.458l14.161,-0l-0.019,2.45l-2.217,0.122l0.104,39.271l2.127,0.059l0.005,2.413l-14.161,-0l-0.002,-2.389l2.231,-0.09l-0.081,-39.333" style="fill:#ffd40f;">
+
+	<animateTransform attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		begin=".3"
+		dur="1s"
+		values="20,0;0,0;0,0"
+		repeatCount="indefinite"/>
+		
+</path>
+<rect id="Top" x="10.958" y="32.912" width="78.084" height="5.512" style="fill:#002064;"/><g id="Roof"><path d="M50,10.937l45.03,20.042l-90.06,0l45.03,-20.042Z" style="fill:#002064;"/><rect x="47.929" y="-0.052" width="4.142" height="12.913" style="fill:#002064;"/><rect x="40.689" y="4.07" width="18.622" height="3.937" style="fill:#002064;"/></g></svg>
